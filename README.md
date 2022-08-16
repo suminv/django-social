@@ -1,5 +1,12 @@
 # Build a Social Network With Django
 
+You can:
+
+- **Post** short text-based messages
+- **View** all users on the platform
+- **Follow** and unfollow other users
+- **Inspect** a feed of messages from users that you follow
+
 
 ## Setup
 
